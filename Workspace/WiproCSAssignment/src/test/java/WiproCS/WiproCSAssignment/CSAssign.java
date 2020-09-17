@@ -128,9 +128,9 @@ public class CSAssign {
 
 	
 
-	@AfterTest
+	/*@AfterTest
 	public void tearDown() {
 		driver.close();
-	}
+	}*/
 
 }
